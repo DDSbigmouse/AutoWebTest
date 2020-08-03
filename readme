@@ -1,0 +1,17 @@
+
+裸心酒店自动化测试项目
+
+giturl：
+       https://github.com/DDSbigmouse/AutoWebTest.git
+
+目录结构：
+    config/ 环境
+    data/  测试数据
+    drivers/ 驱动
+    log/ 日志
+    report/ 报告
+    src(test, utils)  业务代码+公共方法
+
+项目：
+    nakedCastle 裸心堡
+    nakedStables 裸心谷
