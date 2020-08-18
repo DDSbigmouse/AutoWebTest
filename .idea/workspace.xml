@@ -1,21 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2830e15f-f482-464e-85a3-e8b0e2415e11" name="Default Changelist" comment="" />
+    <list default="true" id="2830e15f-f482-464e-85a3-e8b0e2415e11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dds.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/UrlConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log/LogPrint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/Demodata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/Element/RetreatsElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/Element/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/ServiceCase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/ServiceCase/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/ServiceCase/test_retreatsCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/AddToDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/ClockToDo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/EmailSend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/FlashFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/GPrequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/LoggerIt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/OpenMysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AutoWebTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoWebTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme" beforeDir="false" afterPath="$PROJECT_DIR$/readme" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fZVxMrUYquQBYWlD2hodWHbhOe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_retreatsCase.py">
+    <configuration name="Demodata (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoWebTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Case/Demodata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FlashFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoWebTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Utils/FlashFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RetreatsElement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoWebTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Case/Element" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Case/Element/RetreatsElement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_retreatsCase.TestRetreats.test_FindRoomBtn" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutoWebTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Case/ServiceCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_retreatsCase.TestRetreats.test_FindRoomBtn&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_retreatsCase.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutoWebTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Case/ServiceCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Src/Case/ServiceCase/test_retreatsCase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_retreatsCase.py" />
+        <item itemvalue="Python.Demodata (1)" />
+        <item itemvalue="Python.FlashFunction" />
+        <item itemvalue="Python tests.pytest for test_retreatsCase.TestRetreats.test_FindRoomBtn" />
+        <item itemvalue="Python.RetreatsElement" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,16 +187,133 @@
       <option name="presentableId" value="Default" />
       <updated>1596425846713</updated>
       <workItem from="1596425848793" duration="272000" />
+      <workItem from="1596509888449" duration="1406000" />
+      <workItem from="1596520638036" duration="6682000" />
+      <workItem from="1596532054792" duration="1440000" />
+      <workItem from="1596533527784" duration="458000" />
+      <workItem from="1596533989978" duration="186000" />
+      <workItem from="1596534469406" duration="559000" />
+      <workItem from="1596615215930" duration="6409000" />
+      <workItem from="1596683610338" duration="1157000" />
+      <workItem from="1597048742878" duration="10515000" />
+      <workItem from="1597114001083" duration="10316000" />
+      <workItem from="1597634738948" duration="11144000" />
+      <workItem from="1597732884811" duration="54000" />
+      <workItem from="1597732951091" duration="194000" />
+      <workItem from="1597733249089" duration="33000" />
+      <workItem from="1597733300333" duration="145000" />
+      <workItem from="1597733596159" duration="95000" />
+      <workItem from="1597733721060" duration="63000" />
+      <workItem from="1597733801555" duration="4174000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596425902368">
+    <state x="233" y="89" key="#Inspections" timestamp="1597142198741">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="233" y="88" key="#Inspections/0.23.1440.814@0.23.1440.814" timestamp="1597111769476" />
+    <state x="233" y="89" key="#Inspections/0.23.1440.821@0.23.1440.821" timestamp="1597142198741" />
+    <state x="159" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597055490656">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="159" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1597055490656" />
+    <state x="418" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596622389405">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="418" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816@0.23.1440.816" timestamp="1596425902368" />
+    <state x="418" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816@0.23.1440.816" timestamp="1596622389405" />
+    <state x="916" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596535067951">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="916" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1596535067951" />
+    <state width="1249" height="215" key="GridCell.Tab.0.bottom" timestamp="1597738405924">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1331" height="290" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1597129740426" />
+    <state width="1331" height="290" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1597203939110" />
+    <state width="1331" height="290" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1597199545091" />
+    <state width="1249" height="215" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1597738405924" />
+    <state width="1249" height="215" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597737822659" />
+    <state width="1331" height="290" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597663882384" />
+    <state width="1331" height="290" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1597653634133" />
+    <state width="1249" height="215" key="GridCell.Tab.0.center" timestamp="1597738405923">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1331" height="290" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1597129740425" />
+    <state width="1331" height="290" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1597203939109" />
+    <state width="1331" height="290" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1597199545090" />
+    <state width="1249" height="215" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1597738405923" />
+    <state width="1249" height="215" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597737822657" />
+    <state width="1331" height="290" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1597663882383" />
+    <state width="1331" height="290" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1597653634132" />
+    <state width="1249" height="215" key="GridCell.Tab.0.left" timestamp="1597738405923">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1331" height="290" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1597129740424" />
+    <state width="1331" height="290" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1597203939109" />
+    <state width="1331" height="290" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1597199545090" />
+    <state width="1249" height="215" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1597738405923" />
+    <state width="1249" height="215" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597737822657" />
+    <state width="1331" height="290" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1597663882383" />
+    <state width="1331" height="290" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1597653634131" />
+    <state width="1249" height="215" key="GridCell.Tab.0.right" timestamp="1597738405924">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1331" height="290" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1597129740426" />
+    <state width="1331" height="290" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1597203939110" />
+    <state width="1331" height="290" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1597199545090" />
+    <state width="1249" height="215" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1597738405924" />
+    <state width="1249" height="215" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597737822658" />
+    <state width="1331" height="290" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1597663882384" />
+    <state width="1331" height="290" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1597653634132" />
+    <state width="1334" height="254" key="GridCell.Tab.1.bottom" timestamp="1596625078524">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1334" height="254" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1596625078524" />
+    <state width="1334" height="254" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1596624599610" />
+    <state width="1334" height="254" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1596531797491" />
+    <state width="1334" height="254" key="GridCell.Tab.1.center" timestamp="1596625078524">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1334" height="254" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1596625078524" />
+    <state width="1334" height="254" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1596624599610" />
+    <state width="1334" height="254" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1596531797491" />
+    <state width="1334" height="254" key="GridCell.Tab.1.left" timestamp="1596625078524">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1334" height="254" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1596625078524" />
+    <state width="1334" height="254" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1596624599610" />
+    <state width="1334" height="254" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1596531797491" />
+    <state width="1334" height="254" key="GridCell.Tab.1.right" timestamp="1596625078524">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1334" height="254" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1596625078524" />
+    <state width="1334" height="254" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1596624599610" />
+    <state width="1334" height="254" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1596531797491" />
+    <state x="211" y="45" key="SettingsEditor" timestamp="1597733914488">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="286" y="64" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1596616247408" />
+    <state x="286" y="64" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1596533985627" />
+    <state x="211" y="45" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1596620313849" />
+    <state x="211" y="45" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1597732968840" />
+    <state x="211" y="45" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1597733914488" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutoWebTest$nakedretreatsCase.coverage" NAME="test_retreatsCase Coverage Results" MODIFIED="1596625058309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Test/Case" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$retreatsElement.coverage" NAME="retreatsElement Coverage Results" MODIFIED="1597650603087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Case/Element" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$FlashFunction.coverage" NAME="FlashFunction Coverage Results" MODIFIED="1597737407627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Utils" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$pytest_for_test_retreatsCase_TestRetreats_test_FindRoomBtn.coverage" NAME="pytest for test_retreatsCase.TestRetreats.test_FindRoomBtn Coverage Results" MODIFIED="1597658132999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Case/ServiceCase" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$nakedretreatsElememnt.coverage" NAME="nakedretreatsElememnt Coverage Results" MODIFIED="1596535117698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Test/Element" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$Demodata__1_.coverage" NAME="Demodata (1) Coverage Results" MODIFIED="1597737766219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Case" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$Demodata.coverage" NAME="Demodata Coverage Results" MODIFIED="1596684134844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Test" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$pytest_in_Demodata_py.coverage" NAME="pytest in Demodata.py Coverage Results" MODIFIED="1596684926274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Case" />
+    <SUITE FILE_PATH="coverage/AutoWebTest$pytest_in_test_retreatsCase_py.coverage" NAME="pytest in test_retreatsCase.py Coverage Results" MODIFIED="1597737796196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/Case/ServiceCase" />
   </component>
 </project>
